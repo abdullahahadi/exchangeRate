@@ -1,5 +1,0 @@
-Status codes:
-200 range means Okay, everything is successfull
-300 range is redirect
-400 range is user error
-500 range is a server error
